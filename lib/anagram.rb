@@ -3,9 +3,9 @@ listen.match(%w(enlists google inlets banana))
  
 # => ["inlets"]
 
-class 
+class Anagram.new
  
-  attr_accessor :name
+  attr_accessor .match
  
   def initialize(name)
     @name = name
