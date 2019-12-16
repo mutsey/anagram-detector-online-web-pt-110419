@@ -7,7 +7,8 @@ class Anagram.new
  
   attr_accessor .match
  
-  def initialize(name)
-    @name = name
+  def initialize(.match)
+    anagram.new = .match
+    
   end
 end
